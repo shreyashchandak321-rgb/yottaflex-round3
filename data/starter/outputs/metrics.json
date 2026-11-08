@@ -1,0 +1,18 @@
+{
+  "records_analysed": 644,
+  "anomaly_records_excluded": 15,
+  "label_distribution": {
+    "mixed": 72,
+    "negative": 227,
+    "neutral": 88,
+    "positive": 257
+  },
+  "baseline_classifier_accuracy": 0.693,
+  "baseline_per_label_accuracy": {
+    "positive": 0.751,
+    "negative": 0.727,
+    "neutral": 1.0,
+    "mixed": 0.0
+  },
+  "note": "Baseline is a transparent keyword model, scored against the dataset labels. Ground-truth anomaly rows and the leaked test_label column are excluded."
+}

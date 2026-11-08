@@ -1,0 +1,7 @@
+channel_id,channel_name,channel_type
+CHAN-001,Web Portal,digital
+CHAN-002,Mobile App,digital
+CHAN-003,Email,digital
+CHAN-004,Phone,voice
+CHAN-005,Social Media,digital
+CHAN-006,In-App Chat,digital

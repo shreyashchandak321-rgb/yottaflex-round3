@@ -1,0 +1,92 @@
+[
+  {
+    "record_id": "REV-2026-000059",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-000134",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-000281",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-000295",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000008-012",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000008-002"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000017-024",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000017-008"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-007",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000019-001"
+  },
+  {
+    "record_id": "MSG-TKT-2026-000045-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-000064-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-000069-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "REV-2026-000301",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-000302",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-000202",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-000247",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000014-014",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  }
+]

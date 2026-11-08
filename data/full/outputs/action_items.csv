@@ -1,0 +1,6 @@
+action_item_id,theme_id,theme_name,title,owner_team,priority_score,evidence,status,created_date
+ACT-000001,THEME-000007,Technical Issues,Reduce negative feedback on Technical Issues,Engineering,801.4,theme THEME-000007: 1243 negative of 1928 records since 2026-08-01,in_progress,2026-11-01
+ACT-000002,THEME-000002,Pricing & Value,Reduce negative feedback on Pricing & Value,Commercial,573.5,theme THEME-000002: 1262 negative of 2777 records since 2026-08-01,in_progress,2026-11-01
+ACT-000003,THEME-000005,Delivery & Timeliness,Reduce negative feedback on Delivery & Timeliness,Operations,356.0,theme THEME-000005: 893 negative of 2240 records since 2026-08-01,in_progress,2026-11-01
+ACT-000004,THEME-000004,Ease of Use,Reduce negative feedback on Ease of Use,Product,292.5,theme THEME-000004: 834 negative of 2378 records since 2026-08-01,open,2026-11-01
+ACT-000005,THEME-000008,Documentation & Guidance,Reduce negative feedback on Documentation & Guidance,Product,146.4,theme THEME-000008: 481 negative of 1580 records since 2026-08-01,open,2026-11-01

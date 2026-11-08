@@ -1,0 +1,16 @@
+record_id,record_type,issue_type,detail
+REV-2026-000059,Review,label_contradicts_text,label flipped from SENT-POS to SENT-NEG
+REV-2026-000134,Review,label_contradicts_text,label flipped from SENT-NEG to SENT-POS
+REV-2026-000281,Review,label_contradicts_text,label flipped from SENT-NEU to SENT-POS
+REV-2026-000295,Review,label_contradicts_text,label flipped from SENT-NEG to SENT-POS
+RESP-SUR-2026-000008-012,SurveyResponse,duplicate_response,exact duplicate of RESP-SUR-2026-000008-002
+RESP-SUR-2026-000017-024,SurveyResponse,duplicate_response,exact duplicate of RESP-SUR-2026-000017-008
+RESP-SUR-2026-000019-007,SurveyResponse,duplicate_response,exact duplicate of RESP-SUR-2026-000019-001
+MSG-TKT-2026-000045-001,SupportMessage,customer_identity_leaked,synthetic email/phone embedded in message text
+MSG-TKT-2026-000064-001,SupportMessage,customer_identity_leaked,synthetic email/phone embedded in message text
+MSG-TKT-2026-000069-001,SupportMessage,customer_identity_leaked,synthetic email/phone embedded in message text
+REV-2026-000301,Review,theme_outside_taxonomy,theme_id THEME-999999 not present in theme taxonomy
+REV-2026-000302,Review,theme_outside_taxonomy,theme_id THEME-999999 not present in theme taxonomy
+REV-2026-000202,Feedback,test_label_in_input,test_label column populated; must be excluded from features
+REV-2026-000247,Feedback,test_label_in_input,test_label column populated; must be excluded from features
+RESP-SUR-2026-000014-014,Feedback,test_label_in_input,test_label column populated; must be excluded from features

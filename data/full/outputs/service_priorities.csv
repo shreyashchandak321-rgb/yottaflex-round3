@@ -1,0 +1,11 @@
+rank,theme_id,theme_name,recent_records,recent_negative,recent_negative_share_pct,priority_score
+1,THEME-000007,Technical Issues,1928,1243,64.47,801.4
+2,THEME-000002,Pricing & Value,2777,1262,45.44,573.5
+3,THEME-000005,Delivery & Timeliness,2240,893,39.87,356.0
+4,THEME-000004,Ease of Use,2378,834,35.07,292.5
+5,THEME-000008,Documentation & Guidance,1580,481,30.44,146.4
+6,THEME-000010,Overall Satisfaction,3181,665,20.91,139.0
+7,THEME-000006,Staff Professionalism,1672,449,26.85,120.6
+8,THEME-000003,Support Responsiveness,2862,575,20.09,115.5
+9,THEME-000001,Product Quality,2515,514,20.44,105.0
+10,THEME-000009,Feature Requests,1557,311,19.97,62.1

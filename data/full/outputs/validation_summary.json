@@ -1,0 +1,212 @@
+{
+  "total_checks": 41,
+  "passed": 41,
+  "failed": 0,
+  "results": [
+    {
+      "check": "pk_unique:customers",
+      "status": "pass",
+      "detail": "5000 rows"
+    },
+    {
+      "check": "pk_unique:products",
+      "status": "pass",
+      "detail": "10 rows"
+    },
+    {
+      "check": "pk_unique:channels",
+      "status": "pass",
+      "detail": "6 rows"
+    },
+    {
+      "check": "pk_unique:themes",
+      "status": "pass",
+      "detail": "10 rows"
+    },
+    {
+      "check": "pk_unique:sentiment_labels",
+      "status": "pass",
+      "detail": "4 rows"
+    },
+    {
+      "check": "pk_unique:surveys",
+      "status": "pass",
+      "detail": "20 rows"
+    },
+    {
+      "check": "pk_unique:survey_responses",
+      "status": "pass",
+      "detail": "20120 rows"
+    },
+    {
+      "check": "pk_unique:reviews",
+      "status": "pass",
+      "detail": "30080 rows"
+    },
+    {
+      "check": "pk_unique:support_tickets",
+      "status": "pass",
+      "detail": "9774 rows"
+    },
+    {
+      "check": "pk_unique:support_messages",
+      "status": "pass",
+      "detail": "20000 rows"
+    },
+    {
+      "check": "pk_unique:state_events",
+      "status": "pass",
+      "detail": "18034 rows"
+    },
+    {
+      "check": "fk:reviews.customer_id",
+      "status": "pass",
+      "detail": "0 dangling"
+    },
+    {
+      "check": "fk:reviews.product_id",
+      "status": "pass",
+      "detail": "0 dangling"
+    },
+    {
+      "check": "fk:reviews.channel_id",
+      "status": "pass",
+      "detail": "0 dangling"
+    },
+    {
+      "check": "fk:reviews.sentiment_label_id",
+      "status": "pass",
+      "detail": "0 dangling"
+    },
+    {
+      "check": "fk:survey_responses.survey_id",
+      "status": "pass",
+      "detail": "0 dangling"
+    },
+    {
+      "check": "fk:survey_responses.customer_id",
+      "status": "pass",
+      "detail": "0 dangling"
+    },
+    {
+      "check": "fk:survey_responses.product_id",
+      "status": "pass",
+      "detail": "0 dangling"
+    },
+    {
+      "check": "fk:support_messages.ticket_id",
+      "status": "pass",
+      "detail": "0 dangling"
+    },
+    {
+      "check": "fk:support_messages.customer_id",
+      "status": "pass",
+      "detail": "0 dangling"
+    },
+    {
+      "check": "fk:support_tickets.customer_id",
+      "status": "pass",
+      "detail": "0 dangling"
+    },
+    {
+      "check": "fk:support_tickets.product_id",
+      "status": "pass",
+      "detail": "0 dangling"
+    },
+    {
+      "check": "fk:reviews.theme_id (anomalies reconciled)",
+      "status": "pass",
+      "detail": "80 dangling, all labelled in ground truth"
+    },
+    {
+      "check": "fk:survey_responses.theme_id (anomalies reconciled)",
+      "status": "pass",
+      "detail": "0 dangling, all labelled in ground truth"
+    },
+    {
+      "check": "fk:support_messages.theme_id (anomalies reconciled)",
+      "status": "pass",
+      "detail": "0 dangling, all labelled in ground truth"
+    },
+    {
+      "check": "fk:support_tickets.theme_id (anomalies reconciled)",
+      "status": "pass",
+      "detail": "0 dangling, all labelled in ground truth"
+    },
+    {
+      "check": "enum:ticket_status",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "check": "enum:customer_segment",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "check": "enum:sender_type",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "check": "dates:response_within_survey_window",
+      "status": "pass",
+      "detail": "0 outside"
+    },
+    {
+      "check": "dates:message_on_or_after_ticket_open",
+      "status": "pass",
+      "detail": "0 early"
+    },
+    {
+      "check": "reconcile:review_sentiment_score",
+      "status": "pass",
+      "detail": "0 mismatched"
+    },
+    {
+      "check": "reconcile:manifest_counts",
+      "status": "pass",
+      "detail": "{\"customers\": 5000, \"surveys\": 20, \"reviews\": 30080, \"survey_responses\": 20120, \"support_tickets\": 9774, \"support_messages\": 20000, \"ground_truth_anomalies\": 550}"
+    },
+    {
+      "check": "reconcile:duplicates_match_ground_truth",
+      "status": "pass",
+      "detail": "120 duplicate rows vs 120 labelled"
+    },
+    {
+      "check": "id_format:reviews",
+      "status": "pass",
+      "detail": "0 malformed"
+    },
+    {
+      "check": "id_format:survey_responses",
+      "status": "pass",
+      "detail": "0 malformed"
+    },
+    {
+      "check": "id_format:support_messages",
+      "status": "pass",
+      "detail": "0 malformed"
+    },
+    {
+      "check": "id_format:surveys",
+      "status": "pass",
+      "detail": "0 malformed"
+    },
+    {
+      "check": "id_format:themes",
+      "status": "pass",
+      "detail": "0 malformed"
+    },
+    {
+      "check": "separation:no_ground_truth_columns_in_inputs",
+      "status": "pass",
+      "detail": ""
+    },
+    {
+      "check": "reproducibility:checksums_match",
+      "status": "pass",
+      "detail": "12 csv files compared, 0 differ"
+    }
+  ]
+}

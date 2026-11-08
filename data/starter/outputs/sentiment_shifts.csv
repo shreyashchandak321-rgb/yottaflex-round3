@@ -1,0 +1,347 @@
+product_id,product_name,theme_id,theme_name,month,records,sentiment_index,shift_q1_to_q2
+PROD-001,Analytics Dashboard,THEME-000001,Product Quality,2026-02,1,-1.0,1.333
+PROD-001,Analytics Dashboard,THEME-000001,Product Quality,2026-04,3,0.333,1.333
+PROD-001,Analytics Dashboard,THEME-000001,Product Quality,2026-08,1,1.0,1.333
+PROD-001,Analytics Dashboard,THEME-000001,Product Quality,2026-10,1,1.0,1.333
+PROD-001,Analytics Dashboard,THEME-000002,Pricing & Value,2026-01,1,-1.0,1.0
+PROD-001,Analytics Dashboard,THEME-000002,Pricing & Value,2026-04,1,-1.0,1.0
+PROD-001,Analytics Dashboard,THEME-000002,Pricing & Value,2026-10,1,0.0,1.0
+PROD-001,Analytics Dashboard,THEME-000003,Support Responsiveness,2026-05,1,1.0,0.0
+PROD-001,Analytics Dashboard,THEME-000003,Support Responsiveness,2026-08,1,1.0,0.0
+PROD-001,Analytics Dashboard,THEME-000003,Support Responsiveness,2026-09,1,1.0,0.0
+PROD-001,Analytics Dashboard,THEME-000004,Ease of Use,2026-01,3,0.667,-0.25
+PROD-001,Analytics Dashboard,THEME-000004,Ease of Use,2026-02,1,-1.0,-0.25
+PROD-001,Analytics Dashboard,THEME-000004,Ease of Use,2026-03,1,1.0,-0.25
+PROD-001,Analytics Dashboard,THEME-000004,Ease of Use,2026-05,1,-1.0,-0.25
+PROD-001,Analytics Dashboard,THEME-000004,Ease of Use,2026-07,1,-1.0,-0.25
+PROD-001,Analytics Dashboard,THEME-000004,Ease of Use,2026-09,1,-1.0,-0.25
+PROD-001,Analytics Dashboard,THEME-000004,Ease of Use,2026-10,1,1.0,-0.25
+PROD-001,Analytics Dashboard,THEME-000005,Delivery & Timeliness,2026-09,1,1.0,
+PROD-001,Analytics Dashboard,THEME-000006,Staff Professionalism,2026-09,1,-1.0,
+PROD-001,Analytics Dashboard,THEME-000006,Staff Professionalism,2026-10,2,1.0,
+PROD-001,Analytics Dashboard,THEME-000007,Technical Issues,2026-04,2,-1.0,1.0
+PROD-001,Analytics Dashboard,THEME-000007,Technical Issues,2026-05,1,-1.0,1.0
+PROD-001,Analytics Dashboard,THEME-000007,Technical Issues,2026-09,2,0.5,1.0
+PROD-001,Analytics Dashboard,THEME-000007,Technical Issues,2026-10,2,-0.5,1.0
+PROD-001,Analytics Dashboard,THEME-000008,Documentation & Guidance,2026-05,1,0.0,-0.667
+PROD-001,Analytics Dashboard,THEME-000008,Documentation & Guidance,2026-08,1,-1.0,-0.667
+PROD-001,Analytics Dashboard,THEME-000008,Documentation & Guidance,2026-09,1,0.0,-0.667
+PROD-001,Analytics Dashboard,THEME-000008,Documentation & Guidance,2026-10,1,-1.0,-0.667
+PROD-001,Analytics Dashboard,THEME-000009,Feature Requests,2026-09,1,0.0,
+PROD-001,Analytics Dashboard,THEME-000009,Feature Requests,2026-10,1,0.0,
+PROD-001,Analytics Dashboard,THEME-000010,Overall Satisfaction,2026-01,1,1.0,-1.5
+PROD-001,Analytics Dashboard,THEME-000010,Overall Satisfaction,2026-03,1,1.0,-1.5
+PROD-001,Analytics Dashboard,THEME-000010,Overall Satisfaction,2026-07,1,-1.0,-1.5
+PROD-001,Analytics Dashboard,THEME-000010,Overall Satisfaction,2026-09,1,-1.0,-1.5
+PROD-001,Analytics Dashboard,THEME-000010,Overall Satisfaction,2026-10,2,0.5,-1.5
+PROD-002,Mobile App,THEME-000001,Product Quality,2026-05,2,0.0,1.0
+PROD-002,Mobile App,THEME-000001,Product Quality,2026-06,1,1.0,1.0
+PROD-002,Mobile App,THEME-000002,Pricing & Value,2026-01,1,-1.0,1.0
+PROD-002,Mobile App,THEME-000002,Pricing & Value,2026-05,1,-1.0,1.0
+PROD-002,Mobile App,THEME-000002,Pricing & Value,2026-08,1,-1.0,1.0
+PROD-002,Mobile App,THEME-000002,Pricing & Value,2026-09,1,1.0,1.0
+PROD-002,Mobile App,THEME-000003,Support Responsiveness,2026-07,1,1.0,
+PROD-002,Mobile App,THEME-000003,Support Responsiveness,2026-08,1,-1.0,
+PROD-002,Mobile App,THEME-000003,Support Responsiveness,2026-09,1,0.0,
+PROD-002,Mobile App,THEME-000004,Ease of Use,2026-01,1,1.0,-0.167
+PROD-002,Mobile App,THEME-000004,Ease of Use,2026-02,2,-0.5,-0.167
+PROD-002,Mobile App,THEME-000004,Ease of Use,2026-07,1,-1.0,-0.167
+PROD-002,Mobile App,THEME-000004,Ease of Use,2026-08,1,1.0,-0.167
+PROD-002,Mobile App,THEME-000004,Ease of Use,2026-09,4,0.25,-0.167
+PROD-002,Mobile App,THEME-000005,Delivery & Timeliness,2026-01,1,-1.0,-1.333
+PROD-002,Mobile App,THEME-000005,Delivery & Timeliness,2026-02,2,1.0,-1.333
+PROD-002,Mobile App,THEME-000005,Delivery & Timeliness,2026-03,1,1.0,-1.333
+PROD-002,Mobile App,THEME-000005,Delivery & Timeliness,2026-09,1,-1.0,-1.333
+PROD-002,Mobile App,THEME-000006,Staff Professionalism,2026-09,1,-1.0,
+PROD-002,Mobile App,THEME-000007,Technical Issues,2026-01,1,-1.0,0.0
+PROD-002,Mobile App,THEME-000007,Technical Issues,2026-03,1,-1.0,0.0
+PROD-002,Mobile App,THEME-000007,Technical Issues,2026-07,1,-1.0,0.0
+PROD-002,Mobile App,THEME-000007,Technical Issues,2026-08,1,-1.0,0.0
+PROD-002,Mobile App,THEME-000008,Documentation & Guidance,2026-01,1,1.0,-0.5
+PROD-002,Mobile App,THEME-000008,Documentation & Guidance,2026-03,1,-1.0,-0.5
+PROD-002,Mobile App,THEME-000008,Documentation & Guidance,2026-07,1,-1.0,-0.5
+PROD-002,Mobile App,THEME-000008,Documentation & Guidance,2026-10,1,0.0,-0.5
+PROD-002,Mobile App,THEME-000009,Feature Requests,2026-01,1,0.0,-0.083
+PROD-002,Mobile App,THEME-000009,Feature Requests,2026-02,1,0.0,-0.083
+PROD-002,Mobile App,THEME-000009,Feature Requests,2026-03,1,1.0,-0.083
+PROD-002,Mobile App,THEME-000009,Feature Requests,2026-08,1,0.0,-0.083
+PROD-002,Mobile App,THEME-000009,Feature Requests,2026-10,2,0.5,-0.083
+PROD-002,Mobile App,THEME-000010,Overall Satisfaction,2026-01,3,-0.667,1.0
+PROD-002,Mobile App,THEME-000010,Overall Satisfaction,2026-03,1,0.0,1.0
+PROD-002,Mobile App,THEME-000010,Overall Satisfaction,2026-06,2,0.0,1.0
+PROD-002,Mobile App,THEME-000010,Overall Satisfaction,2026-07,1,1.0,1.0
+PROD-002,Mobile App,THEME-000010,Overall Satisfaction,2026-08,1,1.0,1.0
+PROD-003,API Service,THEME-000001,Product Quality,2026-02,2,1.0,
+PROD-003,API Service,THEME-000001,Product Quality,2026-04,2,0.0,
+PROD-003,API Service,THEME-000002,Pricing & Value,2026-04,1,-1.0,0.833
+PROD-003,API Service,THEME-000002,Pricing & Value,2026-05,1,-1.0,0.833
+PROD-003,API Service,THEME-000002,Pricing & Value,2026-06,2,-0.5,0.833
+PROD-003,API Service,THEME-000002,Pricing & Value,2026-08,1,0.0,0.833
+PROD-003,API Service,THEME-000002,Pricing & Value,2026-10,1,0.0,0.833
+PROD-003,API Service,THEME-000003,Support Responsiveness,2026-06,1,-1.0,
+PROD-003,API Service,THEME-000003,Support Responsiveness,2026-08,1,1.0,
+PROD-003,API Service,THEME-000003,Support Responsiveness,2026-09,1,-1.0,
+PROD-003,API Service,THEME-000004,Ease of Use,2026-02,3,-0.333,0.666
+PROD-003,API Service,THEME-000004,Ease of Use,2026-06,1,-1.0,0.666
+PROD-003,API Service,THEME-000004,Ease of Use,2026-08,1,1.0,0.666
+PROD-003,API Service,THEME-000004,Ease of Use,2026-09,2,1.0,0.666
+PROD-003,API Service,THEME-000005,Delivery & Timeliness,2026-07,1,-1.0,
+PROD-003,API Service,THEME-000006,Staff Professionalism,2026-06,1,1.0,
+PROD-003,API Service,THEME-000007,Technical Issues,2026-02,1,-1.0,0.5
+PROD-003,API Service,THEME-000007,Technical Issues,2026-06,1,-1.0,0.5
+PROD-003,API Service,THEME-000007,Technical Issues,2026-07,2,-0.5,0.5
+PROD-003,API Service,THEME-000007,Technical Issues,2026-08,4,-0.5,0.5
+PROD-003,API Service,THEME-000007,Technical Issues,2026-10,1,0.0,0.5
+PROD-003,API Service,THEME-000008,Documentation & Guidance,2026-04,1,1.0,-1.042
+PROD-003,API Service,THEME-000008,Documentation & Guidance,2026-06,1,1.0,-1.042
+PROD-003,API Service,THEME-000008,Documentation & Guidance,2026-07,3,-0.667,-1.042
+PROD-003,API Service,THEME-000008,Documentation & Guidance,2026-08,1,-1.0,-1.042
+PROD-003,API Service,THEME-000008,Documentation & Guidance,2026-10,2,0.5,-1.042
+PROD-003,API Service,THEME-000009,Feature Requests,2026-03,1,0.0,0.3
+PROD-003,API Service,THEME-000009,Feature Requests,2026-06,1,0.0,0.3
+PROD-003,API Service,THEME-000009,Feature Requests,2026-07,1,0.0,0.3
+PROD-003,API Service,THEME-000009,Feature Requests,2026-08,1,0.0,0.3
+PROD-003,API Service,THEME-000009,Feature Requests,2026-09,1,1.0,0.3
+PROD-003,API Service,THEME-000009,Feature Requests,2026-10,2,0.5,0.3
+PROD-003,API Service,THEME-000010,Overall Satisfaction,2026-01,1,1.0,-1.667
+PROD-003,API Service,THEME-000010,Overall Satisfaction,2026-02,1,0.0,-1.667
+PROD-003,API Service,THEME-000010,Overall Satisfaction,2026-03,1,1.0,-1.667
+PROD-003,API Service,THEME-000010,Overall Satisfaction,2026-06,2,-1.0,-1.667
+PROD-004,Onboarding Service,THEME-000001,Product Quality,2026-10,1,0.0,
+PROD-004,Onboarding Service,THEME-000002,Pricing & Value,2026-04,1,-1.0,0.0
+PROD-004,Onboarding Service,THEME-000002,Pricing & Value,2026-06,1,-1.0,0.0
+PROD-004,Onboarding Service,THEME-000003,Support Responsiveness,2026-02,1,1.0,1.167
+PROD-004,Onboarding Service,THEME-000003,Support Responsiveness,2026-03,1,-1.0,1.167
+PROD-004,Onboarding Service,THEME-000003,Support Responsiveness,2026-05,1,-1.0,1.167
+PROD-004,Onboarding Service,THEME-000003,Support Responsiveness,2026-07,2,1.0,1.167
+PROD-004,Onboarding Service,THEME-000003,Support Responsiveness,2026-08,3,0.667,1.167
+PROD-004,Onboarding Service,THEME-000004,Ease of Use,2026-10,2,0.0,
+PROD-004,Onboarding Service,THEME-000005,Delivery & Timeliness,2026-02,1,-1.0,1.75
+PROD-004,Onboarding Service,THEME-000005,Delivery & Timeliness,2026-03,2,-0.5,1.75
+PROD-004,Onboarding Service,THEME-000005,Delivery & Timeliness,2026-09,1,1.0,1.75
+PROD-004,Onboarding Service,THEME-000006,Staff Professionalism,2026-03,1,1.0,1.0
+PROD-004,Onboarding Service,THEME-000006,Staff Professionalism,2026-05,1,-1.0,1.0
+PROD-004,Onboarding Service,THEME-000006,Staff Professionalism,2026-07,1,1.0,1.0
+PROD-004,Onboarding Service,THEME-000006,Staff Professionalism,2026-10,2,1.0,1.0
+PROD-004,Onboarding Service,THEME-000007,Technical Issues,2026-09,1,-1.0,
+PROD-004,Onboarding Service,THEME-000008,Documentation & Guidance,2026-03,1,1.0,-1.0
+PROD-004,Onboarding Service,THEME-000008,Documentation & Guidance,2026-08,1,0.0,-1.0
+PROD-004,Onboarding Service,THEME-000009,Feature Requests,2026-02,1,-1.0,
+PROD-004,Onboarding Service,THEME-000010,Overall Satisfaction,2026-05,1,0.0,0.667
+PROD-004,Onboarding Service,THEME-000010,Overall Satisfaction,2026-06,2,0.0,0.667
+PROD-004,Onboarding Service,THEME-000010,Overall Satisfaction,2026-09,1,1.0,0.667
+PROD-004,Onboarding Service,THEME-000010,Overall Satisfaction,2026-10,3,1.0,0.667
+PROD-005,Support Desk,THEME-000001,Product Quality,2026-02,1,1.0,-0.583
+PROD-005,Support Desk,THEME-000001,Product Quality,2026-04,1,1.0,-0.583
+PROD-005,Support Desk,THEME-000001,Product Quality,2026-05,1,-1.0,-0.583
+PROD-005,Support Desk,THEME-000001,Product Quality,2026-06,2,0.0,-0.583
+PROD-005,Support Desk,THEME-000001,Product Quality,2026-10,2,-0.5,-0.583
+PROD-005,Support Desk,THEME-000002,Pricing & Value,2026-02,2,-0.5,-1.0
+PROD-005,Support Desk,THEME-000002,Pricing & Value,2026-03,1,1.0,-1.0
+PROD-005,Support Desk,THEME-000002,Pricing & Value,2026-04,2,0.5,-1.0
+PROD-005,Support Desk,THEME-000002,Pricing & Value,2026-05,1,-1.0,-1.0
+PROD-005,Support Desk,THEME-000002,Pricing & Value,2026-06,1,-1.0,-1.0
+PROD-005,Support Desk,THEME-000002,Pricing & Value,2026-07,1,-1.0,-1.0
+PROD-005,Support Desk,THEME-000002,Pricing & Value,2026-09,1,-1.0,-1.0
+PROD-005,Support Desk,THEME-000003,Support Responsiveness,2026-01,1,1.0,-0.25
+PROD-005,Support Desk,THEME-000003,Support Responsiveness,2026-03,1,1.0,-0.25
+PROD-005,Support Desk,THEME-000003,Support Responsiveness,2026-04,2,0.0,-0.25
+PROD-005,Support Desk,THEME-000003,Support Responsiveness,2026-05,2,0.0,-0.25
+PROD-005,Support Desk,THEME-000003,Support Responsiveness,2026-06,1,-1.0,-0.25
+PROD-005,Support Desk,THEME-000003,Support Responsiveness,2026-07,2,1.0,-0.25
+PROD-005,Support Desk,THEME-000003,Support Responsiveness,2026-08,2,0.0,-0.25
+PROD-005,Support Desk,THEME-000003,Support Responsiveness,2026-09,3,1.0,-0.25
+PROD-005,Support Desk,THEME-000004,Ease of Use,2026-03,1,-1.0,-0.667
+PROD-005,Support Desk,THEME-000004,Ease of Use,2026-04,2,0.0,-0.667
+PROD-005,Support Desk,THEME-000004,Ease of Use,2026-05,1,0.0,-0.667
+PROD-005,Support Desk,THEME-000004,Ease of Use,2026-08,1,-1.0,-0.667
+PROD-005,Support Desk,THEME-000005,Delivery & Timeliness,2026-03,1,1.0,-0.167
+PROD-005,Support Desk,THEME-000005,Delivery & Timeliness,2026-04,2,-1.0,-0.167
+PROD-005,Support Desk,THEME-000005,Delivery & Timeliness,2026-05,1,-1.0,-0.167
+PROD-005,Support Desk,THEME-000005,Delivery & Timeliness,2026-07,1,-1.0,-0.167
+PROD-005,Support Desk,THEME-000005,Delivery & Timeliness,2026-08,1,-1.0,-0.167
+PROD-005,Support Desk,THEME-000005,Delivery & Timeliness,2026-10,2,0.5,-0.167
+PROD-005,Support Desk,THEME-000006,Staff Professionalism,2026-04,2,0.0,0.333
+PROD-005,Support Desk,THEME-000006,Staff Professionalism,2026-05,1,1.0,0.333
+PROD-005,Support Desk,THEME-000006,Staff Professionalism,2026-06,1,1.0,0.333
+PROD-005,Support Desk,THEME-000006,Staff Professionalism,2026-07,1,1.0,0.333
+PROD-005,Support Desk,THEME-000006,Staff Professionalism,2026-08,3,0.333,0.333
+PROD-005,Support Desk,THEME-000006,Staff Professionalism,2026-10,1,1.0,0.333
+PROD-005,Support Desk,THEME-000007,Technical Issues,2026-09,1,0.0,
+PROD-005,Support Desk,THEME-000008,Documentation & Guidance,2026-04,2,0.0,-1.0
+PROD-005,Support Desk,THEME-000008,Documentation & Guidance,2026-09,1,-1.0,-1.0
+PROD-005,Support Desk,THEME-000009,Feature Requests,2026-09,1,1.0,
+PROD-005,Support Desk,THEME-000010,Overall Satisfaction,2026-03,1,1.0,0.167
+PROD-005,Support Desk,THEME-000010,Overall Satisfaction,2026-04,2,-1.0,0.167
+PROD-005,Support Desk,THEME-000010,Overall Satisfaction,2026-06,2,-0.5,0.167
+PROD-005,Support Desk,THEME-000010,Overall Satisfaction,2026-07,1,1.0,0.167
+PROD-005,Support Desk,THEME-000010,Overall Satisfaction,2026-10,1,0.0,0.167
+PROD-006,Training Program,THEME-000001,Product Quality,2026-04,2,0.5,-0.5
+PROD-006,Training Program,THEME-000001,Product Quality,2026-07,1,0.0,-0.5
+PROD-006,Training Program,THEME-000002,Pricing & Value,2026-01,1,0.0,-1.0
+PROD-006,Training Program,THEME-000002,Pricing & Value,2026-03,1,0.0,-1.0
+PROD-006,Training Program,THEME-000002,Pricing & Value,2026-05,5,0.0,-1.0
+PROD-006,Training Program,THEME-000002,Pricing & Value,2026-07,1,-1.0,-1.0
+PROD-006,Training Program,THEME-000003,Support Responsiveness,2026-08,2,0.5,
+PROD-006,Training Program,THEME-000003,Support Responsiveness,2026-09,1,1.0,
+PROD-006,Training Program,THEME-000003,Support Responsiveness,2026-10,2,0.5,
+PROD-006,Training Program,THEME-000004,Ease of Use,2026-04,1,-1.0,-0.5
+PROD-006,Training Program,THEME-000004,Ease of Use,2026-05,1,0.0,-0.5
+PROD-006,Training Program,THEME-000004,Ease of Use,2026-07,1,-1.0,-0.5
+PROD-006,Training Program,THEME-000005,Delivery & Timeliness,2026-01,1,1.0,0.0
+PROD-006,Training Program,THEME-000005,Delivery & Timeliness,2026-04,1,0.0,0.0
+PROD-006,Training Program,THEME-000005,Delivery & Timeliness,2026-06,1,1.0,0.0
+PROD-006,Training Program,THEME-000005,Delivery & Timeliness,2026-08,2,0.0,0.0
+PROD-006,Training Program,THEME-000006,Staff Professionalism,2026-03,1,-1.0,1.0
+PROD-006,Training Program,THEME-000006,Staff Professionalism,2026-05,3,1.0,1.0
+PROD-006,Training Program,THEME-000006,Staff Professionalism,2026-08,1,1.0,1.0
+PROD-006,Training Program,THEME-000006,Staff Professionalism,2026-09,1,1.0,1.0
+PROD-006,Training Program,THEME-000006,Staff Professionalism,2026-10,2,1.0,1.0
+PROD-006,Training Program,THEME-000007,Technical Issues,2026-07,1,-1.0,
+PROD-006,Training Program,THEME-000008,Documentation & Guidance,2026-05,3,-0.667,0.167
+PROD-006,Training Program,THEME-000008,Documentation & Guidance,2026-08,1,-1.0,0.167
+PROD-006,Training Program,THEME-000008,Documentation & Guidance,2026-10,1,0.0,0.167
+PROD-006,Training Program,THEME-000009,Feature Requests,2026-01,2,0.5,-0.25
+PROD-006,Training Program,THEME-000009,Feature Requests,2026-04,2,0.0,-0.25
+PROD-006,Training Program,THEME-000009,Feature Requests,2026-08,1,0.0,-0.25
+PROD-006,Training Program,THEME-000010,Overall Satisfaction,2026-05,1,0.0,-1.0
+PROD-006,Training Program,THEME-000010,Overall Satisfaction,2026-07,1,-1.0,-1.0
+PROD-006,Training Program,THEME-000010,Overall Satisfaction,2026-09,1,-1.0,-1.0
+PROD-006,Training Program,THEME-000010,Overall Satisfaction,2026-10,1,-1.0,-1.0
+PROD-007,Billing & Payments,THEME-000001,Product Quality,2026-04,1,0.0,0.583
+PROD-007,Billing & Payments,THEME-000001,Product Quality,2026-05,1,0.0,0.583
+PROD-007,Billing & Payments,THEME-000001,Product Quality,2026-06,3,0.333,0.583
+PROD-007,Billing & Payments,THEME-000001,Product Quality,2026-07,1,0.0,0.583
+PROD-007,Billing & Payments,THEME-000001,Product Quality,2026-08,1,1.0,0.583
+PROD-007,Billing & Payments,THEME-000001,Product Quality,2026-09,1,1.0,0.583
+PROD-007,Billing & Payments,THEME-000002,Pricing & Value,2026-01,1,0.0,-0.5
+PROD-007,Billing & Payments,THEME-000002,Pricing & Value,2026-02,1,0.0,-0.5
+PROD-007,Billing & Payments,THEME-000002,Pricing & Value,2026-04,1,-1.0,-0.5
+PROD-007,Billing & Payments,THEME-000002,Pricing & Value,2026-05,2,0.0,-0.5
+PROD-007,Billing & Payments,THEME-000002,Pricing & Value,2026-06,5,-1.0,-0.5
+PROD-007,Billing & Payments,THEME-000002,Pricing & Value,2026-08,1,-1.0,-0.5
+PROD-007,Billing & Payments,THEME-000002,Pricing & Value,2026-09,2,0.0,-0.5
+PROD-007,Billing & Payments,THEME-000002,Pricing & Value,2026-10,1,-1.0,-0.5
+PROD-007,Billing & Payments,THEME-000003,Support Responsiveness,2026-06,2,0.5,
+PROD-007,Billing & Payments,THEME-000004,Ease of Use,2026-03,1,0.0,
+PROD-007,Billing & Payments,THEME-000005,Delivery & Timeliness,2026-03,1,0.0,-1.0
+PROD-007,Billing & Payments,THEME-000005,Delivery & Timeliness,2026-06,2,-1.0,-1.0
+PROD-007,Billing & Payments,THEME-000005,Delivery & Timeliness,2026-09,1,-1.0,-1.0
+PROD-007,Billing & Payments,THEME-000006,Staff Professionalism,2026-02,1,1.0,-1.0
+PROD-007,Billing & Payments,THEME-000006,Staff Professionalism,2026-06,2,1.0,-1.0
+PROD-007,Billing & Payments,THEME-000006,Staff Professionalism,2026-07,1,-1.0,-1.0
+PROD-007,Billing & Payments,THEME-000007,Technical Issues,2026-03,1,1.0,-2.0
+PROD-007,Billing & Payments,THEME-000007,Technical Issues,2026-06,2,-1.0,-2.0
+PROD-007,Billing & Payments,THEME-000007,Technical Issues,2026-07,1,-1.0,-2.0
+PROD-007,Billing & Payments,THEME-000007,Technical Issues,2026-09,1,-1.0,-2.0
+PROD-007,Billing & Payments,THEME-000008,Documentation & Guidance,2026-05,1,1.0,0.0
+PROD-007,Billing & Payments,THEME-000008,Documentation & Guidance,2026-06,1,1.0,0.0
+PROD-007,Billing & Payments,THEME-000009,Feature Requests,2026-01,1,1.0,
+PROD-007,Billing & Payments,THEME-000010,Overall Satisfaction,2026-03,1,1.0,0.014
+PROD-007,Billing & Payments,THEME-000010,Overall Satisfaction,2026-04,4,0.75,0.014
+PROD-007,Billing & Payments,THEME-000010,Overall Satisfaction,2026-06,2,1.0,0.014
+PROD-007,Billing & Payments,THEME-000010,Overall Satisfaction,2026-09,3,0.667,0.014
+PROD-007,Billing & Payments,THEME-000010,Overall Satisfaction,2026-10,2,1.0,0.014
+PROD-008,Subscription Plans,THEME-000001,Product Quality,2026-01,2,-1.0,0.25
+PROD-008,Subscription Plans,THEME-000001,Product Quality,2026-03,1,0.0,0.25
+PROD-008,Subscription Plans,THEME-000001,Product Quality,2026-06,1,-1.0,0.25
+PROD-008,Subscription Plans,THEME-000001,Product Quality,2026-07,6,0.5,0.25
+PROD-008,Subscription Plans,THEME-000002,Pricing & Value,2026-01,1,-1.0,0.011
+PROD-008,Subscription Plans,THEME-000002,Pricing & Value,2026-02,2,0.0,0.011
+PROD-008,Subscription Plans,THEME-000002,Pricing & Value,2026-06,1,0.0,0.011
+PROD-008,Subscription Plans,THEME-000002,Pricing & Value,2026-07,5,-0.8,0.011
+PROD-008,Subscription Plans,THEME-000002,Pricing & Value,2026-09,3,-0.667,0.011
+PROD-008,Subscription Plans,THEME-000003,Support Responsiveness,2026-05,1,1.0,-0.333
+PROD-008,Subscription Plans,THEME-000003,Support Responsiveness,2026-06,2,1.0,-0.333
+PROD-008,Subscription Plans,THEME-000003,Support Responsiveness,2026-07,1,0.0,-0.333
+PROD-008,Subscription Plans,THEME-000003,Support Responsiveness,2026-09,1,1.0,-0.333
+PROD-008,Subscription Plans,THEME-000004,Ease of Use,2026-03,1,-1.0,0.0
+PROD-008,Subscription Plans,THEME-000004,Ease of Use,2026-07,3,-1.0,0.0
+PROD-008,Subscription Plans,THEME-000004,Ease of Use,2026-09,1,-1.0,0.0
+PROD-008,Subscription Plans,THEME-000005,Delivery & Timeliness,2026-03,1,1.0,-2.0
+PROD-008,Subscription Plans,THEME-000005,Delivery & Timeliness,2026-07,1,-1.0,-2.0
+PROD-008,Subscription Plans,THEME-000005,Delivery & Timeliness,2026-08,1,-1.0,-2.0
+PROD-008,Subscription Plans,THEME-000006,Staff Professionalism,2026-10,1,-1.0,
+PROD-008,Subscription Plans,THEME-000007,Technical Issues,2026-01,1,-1.0,0.0
+PROD-008,Subscription Plans,THEME-000007,Technical Issues,2026-05,1,-1.0,0.0
+PROD-008,Subscription Plans,THEME-000007,Technical Issues,2026-07,2,-1.0,0.0
+PROD-008,Subscription Plans,THEME-000008,Documentation & Guidance,2026-06,1,1.0,
+PROD-008,Subscription Plans,THEME-000008,Documentation & Guidance,2026-07,1,0.0,
+PROD-008,Subscription Plans,THEME-000008,Documentation & Guidance,2026-10,1,-1.0,
+PROD-008,Subscription Plans,THEME-000009,Feature Requests,2026-01,1,-1.0,1.0
+PROD-008,Subscription Plans,THEME-000009,Feature Requests,2026-04,1,-1.0,1.0
+PROD-008,Subscription Plans,THEME-000009,Feature Requests,2026-06,1,0.0,1.0
+PROD-008,Subscription Plans,THEME-000010,Overall Satisfaction,2026-04,3,1.0,-0.417
+PROD-008,Subscription Plans,THEME-000010,Overall Satisfaction,2026-05,2,0.5,-0.417
+PROD-008,Subscription Plans,THEME-000010,Overall Satisfaction,2026-07,1,-1.0,-0.417
+PROD-008,Subscription Plans,THEME-000010,Overall Satisfaction,2026-08,1,1.0,-0.417
+PROD-008,Subscription Plans,THEME-000010,Overall Satisfaction,2026-09,1,1.0,-0.417
+PROD-009,Marketplace,THEME-000001,Product Quality,2026-03,1,1.0,0.0
+PROD-009,Marketplace,THEME-000001,Product Quality,2026-05,1,1.0,0.0
+PROD-009,Marketplace,THEME-000001,Product Quality,2026-06,2,1.0,0.0
+PROD-009,Marketplace,THEME-000001,Product Quality,2026-08,1,1.0,0.0
+PROD-009,Marketplace,THEME-000001,Product Quality,2026-09,1,1.0,0.0
+PROD-009,Marketplace,THEME-000002,Pricing & Value,2026-01,1,-1.0,0.0
+PROD-009,Marketplace,THEME-000002,Pricing & Value,2026-02,1,0.0,0.0
+PROD-009,Marketplace,THEME-000002,Pricing & Value,2026-03,1,-1.0,0.0
+PROD-009,Marketplace,THEME-000002,Pricing & Value,2026-06,3,-0.333,0.0
+PROD-009,Marketplace,THEME-000002,Pricing & Value,2026-07,1,-1.0,0.0
+PROD-009,Marketplace,THEME-000002,Pricing & Value,2026-08,4,0.0,0.0
+PROD-009,Marketplace,THEME-000002,Pricing & Value,2026-09,1,-1.0,0.0
+PROD-009,Marketplace,THEME-000002,Pricing & Value,2026-10,1,-1.0,0.0
+PROD-009,Marketplace,THEME-000003,Support Responsiveness,2026-01,1,-1.0,1.75
+PROD-009,Marketplace,THEME-000003,Support Responsiveness,2026-07,1,0.0,1.75
+PROD-009,Marketplace,THEME-000003,Support Responsiveness,2026-08,1,1.0,1.75
+PROD-009,Marketplace,THEME-000003,Support Responsiveness,2026-09,1,1.0,1.75
+PROD-009,Marketplace,THEME-000003,Support Responsiveness,2026-10,1,1.0,1.75
+PROD-009,Marketplace,THEME-000004,Ease of Use,2026-05,1,1.0,-2.0
+PROD-009,Marketplace,THEME-000004,Ease of Use,2026-08,3,-1.0,-2.0
+PROD-009,Marketplace,THEME-000005,Delivery & Timeliness,2026-02,1,0.0,0.667
+PROD-009,Marketplace,THEME-000005,Delivery & Timeliness,2026-08,2,0.0,0.667
+PROD-009,Marketplace,THEME-000005,Delivery & Timeliness,2026-09,1,1.0,0.667
+PROD-009,Marketplace,THEME-000005,Delivery & Timeliness,2026-10,1,1.0,0.667
+PROD-009,Marketplace,THEME-000006,Staff Professionalism,2026-03,1,1.0,-1.333
+PROD-009,Marketplace,THEME-000006,Staff Professionalism,2026-07,1,0.0,-1.333
+PROD-009,Marketplace,THEME-000006,Staff Professionalism,2026-09,1,-1.0,-1.333
+PROD-009,Marketplace,THEME-000006,Staff Professionalism,2026-10,1,0.0,-1.333
+PROD-009,Marketplace,THEME-000007,Technical Issues,2026-01,1,-1.0,0.5
+PROD-009,Marketplace,THEME-000007,Technical Issues,2026-08,2,-1.0,0.5
+PROD-009,Marketplace,THEME-000007,Technical Issues,2026-10,2,0.0,0.5
+PROD-009,Marketplace,THEME-000008,Documentation & Guidance,2026-08,2,-1.0,
+PROD-009,Marketplace,THEME-000009,Feature Requests,2026-04,2,0.0,-1.0
+PROD-009,Marketplace,THEME-000009,Feature Requests,2026-08,1,-1.0,-1.0
+PROD-009,Marketplace,THEME-000010,Overall Satisfaction,2026-03,1,1.0,-0.6
+PROD-009,Marketplace,THEME-000010,Overall Satisfaction,2026-04,3,0.667,-0.6
+PROD-009,Marketplace,THEME-000010,Overall Satisfaction,2026-06,2,0.5,-0.6
+PROD-009,Marketplace,THEME-000010,Overall Satisfaction,2026-07,1,1.0,-0.6
+PROD-009,Marketplace,THEME-000010,Overall Satisfaction,2026-08,2,0.0,-0.6
+PROD-009,Marketplace,THEME-000010,Overall Satisfaction,2026-09,3,0.667,-0.6
+PROD-009,Marketplace,THEME-000010,Overall Satisfaction,2026-10,1,-1.0,-0.6
+PROD-010,Loyalty Program,THEME-000001,Product Quality,2026-04,1,1.0,-0.333
+PROD-010,Loyalty Program,THEME-000001,Product Quality,2026-08,1,1.0,-0.333
+PROD-010,Loyalty Program,THEME-000001,Product Quality,2026-09,2,1.0,-0.333
+PROD-010,Loyalty Program,THEME-000001,Product Quality,2026-10,1,0.0,-0.333
+PROD-010,Loyalty Program,THEME-000002,Pricing & Value,2026-02,1,-1.0,1.083
+PROD-010,Loyalty Program,THEME-000002,Pricing & Value,2026-07,3,-0.333,1.083
+PROD-010,Loyalty Program,THEME-000002,Pricing & Value,2026-09,2,0.5,1.083
+PROD-010,Loyalty Program,THEME-000003,Support Responsiveness,2026-04,1,0.0,1.0
+PROD-010,Loyalty Program,THEME-000003,Support Responsiveness,2026-09,2,1.0,1.0
+PROD-010,Loyalty Program,THEME-000004,Ease of Use,2026-01,1,0.0,0.75
+PROD-010,Loyalty Program,THEME-000004,Ease of Use,2026-09,4,0.5,0.75
+PROD-010,Loyalty Program,THEME-000004,Ease of Use,2026-10,1,1.0,0.75
+PROD-010,Loyalty Program,THEME-000005,Delivery & Timeliness,2026-01,1,0.0,-0.222
+PROD-010,Loyalty Program,THEME-000005,Delivery & Timeliness,2026-06,1,1.0,-0.222
+PROD-010,Loyalty Program,THEME-000005,Delivery & Timeliness,2026-09,3,-0.667,-0.222
+PROD-010,Loyalty Program,THEME-000005,Delivery & Timeliness,2026-10,2,-1.0,-0.222
+PROD-010,Loyalty Program,THEME-000006,Staff Professionalism,2026-06,1,0.0,
+PROD-010,Loyalty Program,THEME-000006,Staff Professionalism,2026-07,1,1.0,
+PROD-010,Loyalty Program,THEME-000007,Technical Issues,2026-09,1,-1.0,
+PROD-010,Loyalty Program,THEME-000008,Documentation & Guidance,2026-01,1,1.0,-0.25
+PROD-010,Loyalty Program,THEME-000008,Documentation & Guidance,2026-07,1,1.0,-0.25
+PROD-010,Loyalty Program,THEME-000008,Documentation & Guidance,2026-09,2,0.5,-0.25
+PROD-010,Loyalty Program,THEME-000009,Feature Requests,2026-02,1,0.0,-0.5
+PROD-010,Loyalty Program,THEME-000009,Feature Requests,2026-09,1,0.0,-0.5
+PROD-010,Loyalty Program,THEME-000009,Feature Requests,2026-10,1,-1.0,-0.5
+PROD-010,Loyalty Program,THEME-000010,Overall Satisfaction,2026-01,1,1.0,0.0
+PROD-010,Loyalty Program,THEME-000010,Overall Satisfaction,2026-05,1,1.0,0.0
+PROD-010,Loyalty Program,THEME-000010,Overall Satisfaction,2026-07,1,1.0,0.0

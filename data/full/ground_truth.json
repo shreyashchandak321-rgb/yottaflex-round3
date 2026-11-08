@@ -1,0 +1,3302 @@
+[
+  {
+    "record_id": "REV-2026-012017",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-005753",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-011120",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-001830",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-017007",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-023680",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-007163",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-020233",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-019473",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-029856",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-024791",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-002461",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-005934",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-012168",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-028294",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-003109",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-026658",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-005712",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-018548",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-021533",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-002945",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-001265",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-025766",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-009151",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-025203",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-011370",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-025091",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-001318",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-008035",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-020116",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-027656",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-009561",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-029528",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-017618",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-025429",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-002842",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-022473",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-025450",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-016887",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-015151",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-003083",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-012527",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-019892",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-000241",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-007646",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-005581",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-006643",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-005114",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-029820",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-020726",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-016347",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-024412",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-027620",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-008139",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-017381",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-002921",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-015032",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-006401",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-005349",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-003073",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-017776",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-029945",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-008282",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-013231",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-012981",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-008534",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-025854",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-019308",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-021382",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-021048",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-021443",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-026532",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-005370",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-021331",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-009908",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-006176",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-022087",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-002680",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-013366",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-023224",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-002088",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-017091",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-016485",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-009259",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-011826",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-007606",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-004258",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-025947",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-014323",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-005560",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-005003",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-004569",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-002364",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-005356",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-022969",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-014068",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-004967",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-025734",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-006769",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-003777",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-028565",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-007330",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-001636",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-011873",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-028046",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-015253",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-027537",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-004442",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-028342",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-015899",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-015735",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-020649",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-018742",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-029640",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-012911",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-022676",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-023900",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-013540",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-007977",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-000206",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-020162",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-001711",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-028526",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-026923",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-022868",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEU to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-021758",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-006216",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-022261",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-002033",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-010602",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-017794",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-026387",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-024666",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-009390",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-007152",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-018284",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-025426",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-024396",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-012924",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-027697",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-MIX to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-029074",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-014201",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-023772",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-026012",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-016014",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-017969",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-019431",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-008643",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "REV-2026-018213",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-NEG to SENT-POS"
+  },
+  {
+    "record_id": "REV-2026-025515",
+    "record_type": "Review",
+    "issue_type": "label_contradicts_text",
+    "detail": "label flipped from SENT-POS to SENT-NEG"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-1221",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000019-342"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000012-1056",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000012-389"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000011-1046",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000011-992"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000018-1164",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000018-1076"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000013-1156",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000013-318"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000013-1157",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000013-037"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-1222",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000019-316"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000010-1067",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000010-326"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000016-1155",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000016-879"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000015-1197",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000015-855"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000013-1158",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000013-389"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000015-1198",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000015-659"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000010-1068",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000010-385"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000018-1165",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000018-216"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000012-1057",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000012-757"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000020-1263",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000020-970"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000017-1201",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000017-895"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000020-1264",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000020-138"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000007-950",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000007-593"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-1223",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000019-661"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000015-1199",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000015-781"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000001-617",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000001-186"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000016-1156",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000016-801"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000015-1200",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000015-597"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000007-951",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000007-700"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000003-686",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000003-491"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000020-1265",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000020-992"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000020-1266",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000020-371"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000013-1159",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000013-433"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000014-1130",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000014-668"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000009-1066",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000009-620"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000015-1201",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000015-122"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000011-1047",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000011-523"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-1224",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000019-271"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000015-1202",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000015-016"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-1225",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000019-1091"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000020-1267",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000020-415"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000004-710",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000004-127"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000005-896",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000005-281"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000014-1131",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000014-414"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-1226",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000019-545"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000011-1048",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000011-1027"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000005-897",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000005-656"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000008-934",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000008-649"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-1227",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000019-926"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000007-952",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000007-897"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000015-1203",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000015-289"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000014-1132",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000014-027"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000005-898",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000005-540"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000007-953",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000007-017"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000005-899",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000005-038"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000005-900",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000005-682"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000006-911",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000006-773"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000012-1058",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000012-296"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000008-935",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000008-583"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000001-618",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000001-456"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000014-1133",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000014-454"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000003-687",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000003-394"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000016-1157",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000016-1134"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000012-1059",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000012-480"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000020-1268",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000020-748"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-1228",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000019-433"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000020-1269",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000020-236"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000015-1204",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000015-1181"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000007-954",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000007-181"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000005-901",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000005-149"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000005-902",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000005-379"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-1229",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000019-700"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000002-594",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000002-495"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000015-1205",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000015-345"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000010-1069",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000010-1059"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-1230",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000019-651"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000020-1270",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000020-940"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000012-1060",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000012-200"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000011-1049",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000011-344"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000008-936",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000008-538"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000008-937",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000008-673"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000005-903",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000005-598"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000020-1271",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000020-126"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000012-1061",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000012-202"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000020-1272",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000020-1250"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000018-1166",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000018-1104"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000009-1067",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000009-279"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-1231",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000019-037"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000002-595",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000002-206"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000020-1273",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000020-865"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000005-904",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000005-369"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000018-1167",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000018-267"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000001-619",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000001-061"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-1232",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000019-101"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000020-1274",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000020-141"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000013-1160",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000013-219"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000017-1202",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000017-027"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000018-1168",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000018-974"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000009-1068",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000009-004"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000009-1069",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000009-563"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000007-955",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000007-272"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000007-956",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000007-877"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000013-1161",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000013-796"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000007-957",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000007-822"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000013-1162",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000013-116"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000011-1050",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000011-271"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000020-1275",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000020-708"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000006-912",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000006-610"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000010-1070",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000010-397"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000009-1070",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000009-082"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000020-1276",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000020-434"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000007-958",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000007-657"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000016-1158",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000016-902"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000002-596",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000002-132"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000018-1169",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000018-398"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000015-1206",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000015-028"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000014-1134",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000014-328"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-1233",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000019-1141"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000018-1170",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000018-929"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000004-711",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000004-395"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000010-1071",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000010-066"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000007-959",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000007-255"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000016-1159",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000016-702"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000011-1051",
+    "record_type": "SurveyResponse",
+    "issue_type": "duplicate_response",
+    "detail": "exact duplicate of RESP-SUR-2026-000011-600"
+  },
+  {
+    "record_id": "MSG-TKT-2026-003981-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-000080-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-000169-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-007612-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-000400-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-002612-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-007027-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-004619-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-000387-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-009243-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-001504-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-000690-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-009253-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-002291-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-002987-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-003820-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-003264-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-001282-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-003917-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-000436-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-007871-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-004731-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-004983-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-006601-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-008135-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-008204-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-008588-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-009763-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-007502-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-000470-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-006922-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-007097-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-002044-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-009224-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-001475-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-004346-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-007951-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-001657-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-006889-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-001777-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-004431-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-005787-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-002283-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-005535-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-008744-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-006368-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-000412-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-002679-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-008153-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-003990-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-009221-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-006022-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-007440-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-005077-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-006677-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-004837-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-007714-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-008856-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-008235-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-002306-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-002204-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-008266-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-004576-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-004421-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-005359-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-004830-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-009160-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-007236-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-009578-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-004596-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-005093-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-000126-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-004492-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-005957-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-008043-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-009201-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-000402-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-000941-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-004672-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-002410-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-003903-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-002876-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-005179-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-004157-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-001842-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-008533-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-008605-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-004843-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-009024-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-003108-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-008930-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-009522-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-004048-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-007784-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-002658-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-001731-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-004857-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-003957-003",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-002802-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "MSG-TKT-2026-001601-001",
+    "record_type": "SupportMessage",
+    "issue_type": "customer_identity_leaked",
+    "detail": "synthetic email/phone embedded in message text"
+  },
+  {
+    "record_id": "REV-2026-030001",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030002",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030003",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030004",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030005",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030006",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030007",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030008",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030009",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030010",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030011",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030012",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030013",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030014",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030015",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030016",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030017",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030018",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030019",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030020",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030021",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030022",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030023",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030024",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030025",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030026",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030027",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030028",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030029",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030030",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030031",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030032",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030033",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030034",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030035",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030036",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030037",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030038",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030039",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030040",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030041",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030042",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030043",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030044",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030045",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030046",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030047",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030048",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030049",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030050",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030051",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030052",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030053",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030054",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030055",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030056",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030057",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030058",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030059",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030060",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030061",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030062",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030063",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030064",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030065",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030066",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030067",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030068",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030069",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030070",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030071",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030072",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030073",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030074",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030075",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030076",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030077",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030078",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030079",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-030080",
+    "record_type": "Review",
+    "issue_type": "theme_outside_taxonomy",
+    "detail": "theme_id THEME-999999 not present in theme taxonomy"
+  },
+  {
+    "record_id": "REV-2026-021261",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-023887",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-023971",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-018199",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-011624",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-000040",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-182",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000018-772",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-000987",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-016017",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000009-800",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-025501",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-000968",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-003848",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000003-440",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000010-933",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000008-518",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-022834",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-009382",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-028012",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-003044",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000018-004",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000005-771",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-023467",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-027176",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-019639",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-000505",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-017564",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-023068",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000010-230",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-023267",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-024947",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000003-130",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-024968",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-015161",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000010-606",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-1060",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-029524",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-010715",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000017-926",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000010-327",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000001-256",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-000275",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-012476",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000002-518",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000010-619",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-022822",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000011-700",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-002980",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-022792",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-029452",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-001818",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-011611",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000015-1105",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-895",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000010-480",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000016-191",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-010594",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-027158",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-020932",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-029646",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-003068",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-026768",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-027775",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000003-594",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-008205",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000008-654",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-006221",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-018292",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000009-318",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-006052",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-025277",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-023612",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-016989",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-027908",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-005167",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000018-415",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000010-020",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-023036",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-016944",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000012-306",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000018-550",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-026609",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-000097",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-027699",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-019171",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000015-1051",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000018-911",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-016683",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000018-937",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000020-373",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-026886",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-013078",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-015941",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000020-066",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000019-1033",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-026186",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "REV-2026-012389",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000012-181",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  },
+  {
+    "record_id": "RESP-SUR-2026-000014-667",
+    "record_type": "Feedback",
+    "issue_type": "test_label_in_input",
+    "detail": "test_label column populated; must be excluded from features"
+  }
+]

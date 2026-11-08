@@ -1,0 +1,44 @@
+# Validation summary
+
+- Checks: 40 total, 40 passed, 0 failed
+
+- [pass] pk_unique:customers — 200 rows
+- [pass] pk_unique:products — 10 rows
+- [pass] pk_unique:channels — 6 rows
+- [pass] pk_unique:themes — 10 rows
+- [pass] pk_unique:sentiment_labels — 4 rows
+- [pass] pk_unique:surveys — 20 rows
+- [pass] pk_unique:survey_responses — 203 rows
+- [pass] pk_unique:reviews — 302 rows
+- [pass] pk_unique:support_tickets — 121 rows
+- [pass] pk_unique:support_messages — 240 rows
+- [pass] pk_unique:state_events — 228 rows
+- [pass] fk:reviews.customer_id — 0 dangling
+- [pass] fk:reviews.product_id — 0 dangling
+- [pass] fk:reviews.channel_id — 0 dangling
+- [pass] fk:reviews.sentiment_label_id — 0 dangling
+- [pass] fk:survey_responses.survey_id — 0 dangling
+- [pass] fk:survey_responses.customer_id — 0 dangling
+- [pass] fk:survey_responses.product_id — 0 dangling
+- [pass] fk:support_messages.ticket_id — 0 dangling
+- [pass] fk:support_messages.customer_id — 0 dangling
+- [pass] fk:support_tickets.customer_id — 0 dangling
+- [pass] fk:support_tickets.product_id — 0 dangling
+- [pass] fk:reviews.theme_id (anomalies reconciled) — 2 dangling, all labelled in ground truth
+- [pass] fk:survey_responses.theme_id (anomalies reconciled) — 0 dangling, all labelled in ground truth
+- [pass] fk:support_messages.theme_id (anomalies reconciled) — 0 dangling, all labelled in ground truth
+- [pass] fk:support_tickets.theme_id (anomalies reconciled) — 0 dangling, all labelled in ground truth
+- [pass] enum:ticket_status — 
+- [pass] enum:customer_segment — 
+- [pass] enum:sender_type — 
+- [pass] dates:response_within_survey_window — 0 outside
+- [pass] dates:message_on_or_after_ticket_open — 0 early
+- [pass] reconcile:review_sentiment_score — 0 mismatched
+- [pass] reconcile:manifest_counts — {"customers": 200, "surveys": 20, "reviews": 302, "survey_responses": 203, "support_tickets": 121, "support_messages": 240, "ground_truth_anomalies": 15}
+- [pass] reconcile:duplicates_match_ground_truth — 3 duplicate rows vs 3 labelled
+- [pass] id_format:reviews — 0 malformed
+- [pass] id_format:survey_responses — 0 malformed
+- [pass] id_format:support_messages — 0 malformed
+- [pass] id_format:surveys — 0 malformed
+- [pass] id_format:themes — 0 malformed
+- [pass] separation:no_ground_truth_columns_in_inputs — 

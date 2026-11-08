@@ -1,0 +1,5 @@
+sentiment_label_id,label,polarity_score
+SENT-POS,positive,1
+SENT-NEG,negative,-1
+SENT-NEU,neutral,0
+SENT-MIX,mixed,0

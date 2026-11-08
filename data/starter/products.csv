@@ -1,0 +1,11 @@
+product_id,product_name,category,launch_date,status
+PROD-001,Analytics Dashboard,Platform,2024-03-01,active
+PROD-002,Mobile App,Platform,2023-11-15,active
+PROD-003,API Service,Platform,2024-06-01,active
+PROD-004,Onboarding Service,Services,2024-01-20,active
+PROD-005,Support Desk,Services,2023-09-01,active
+PROD-006,Training Program,Services,2025-02-10,active
+PROD-007,Billing & Payments,Commerce,2023-08-05,active
+PROD-008,Subscription Plans,Commerce,2024-09-12,active
+PROD-009,Marketplace,Commerce,2025-05-01,active
+PROD-010,Loyalty Program,Commerce,2025-08-18,active

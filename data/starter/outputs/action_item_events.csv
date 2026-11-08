@@ -1,0 +1,9 @@
+event_id,action_item_id,from_state,to_state,event_date,reason
+AEV-000001,ACT-000001,,open,2026-11-01,auto-created from service priority rule
+AEV-000002,ACT-000001,open,in_progress,2026-11-03,owner team picked up
+AEV-000003,ACT-000002,,open,2026-11-01,auto-created from service priority rule
+AEV-000004,ACT-000002,open,in_progress,2026-11-03,owner team picked up
+AEV-000005,ACT-000003,,open,2026-11-01,auto-created from service priority rule
+AEV-000006,ACT-000003,open,in_progress,2026-11-03,owner team picked up
+AEV-000007,ACT-000004,,open,2026-11-01,auto-created from service priority rule
+AEV-000008,ACT-000005,,open,2026-11-01,auto-created from service priority rule

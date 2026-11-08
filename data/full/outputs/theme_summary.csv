@@ -1,0 +1,11 @@
+theme_id,theme_name,total_records,share_pct,positive,negative,neutral,mixed,negative_share_pct,avg_sentiment_score
+THEME-000010,Overall Satisfaction,8544,13.71,4682,1754,1276,832,20.53,0.343
+THEME-000003,Support Responsiveness,8000,12.84,4074,2257,828,841,28.21,0.227
+THEME-000002,Pricing & Value,7537,12.09,1801,3397,1164,1175,45.07,-0.212
+THEME-000001,Product Quality,6587,10.57,3673,1314,953,647,19.95,0.358
+THEME-000004,Ease of Use,6527,10.47,2608,2290,971,658,35.09,0.049
+THEME-000005,Delivery & Timeliness,6389,10.25,2626,2548,597,618,39.88,0.012
+THEME-000007,Technical Issues,5498,8.82,478,3713,518,789,67.53,-0.588
+THEME-000006,Staff Professionalism,4863,7.8,2736,1198,485,444,24.63,0.316
+THEME-000008,Documentation & Guidance,4361,7.0,1760,1284,875,442,29.44,0.109
+THEME-000009,Feature Requests,4018,6.45,1241,774,1411,592,19.26,0.116
